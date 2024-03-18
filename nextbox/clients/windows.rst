@@ -1,4 +1,4 @@
-Connect your Mac Commputer
+Connect your Windows Commputer
 ==========================
 
 .. contents:: :local:
