@@ -1,4 +1,4 @@
-Connect your Mac Commputer
+Connect your Mac Computer
 ==========================
 
 .. contents:: :local:
