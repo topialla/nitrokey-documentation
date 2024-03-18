@@ -1,4 +1,4 @@
-Connect your Windows Commputer
+Connect your Windows Computer
 ==========================
 
 .. contents:: :local:
